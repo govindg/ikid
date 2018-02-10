@@ -9,8 +9,6 @@
 import UIKit
 
 class DadViewController: UIViewController {
-
-    @IBOutlet weak var flipButton: UIButton!
     @IBOutlet weak var jokeLabel: UILabel!
     var showJoke = false
     

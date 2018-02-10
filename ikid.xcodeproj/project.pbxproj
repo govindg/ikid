@@ -8,13 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		AC15D77A202D20EF00063A86 /* DadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC15D779202D20EF00063A86 /* DadViewController.swift */; };
-		AC15D77F202D2D2500063A86 /* calvin_hobbes2.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D77E202D2D2500063A86 /* calvin_hobbes2.png */; };
-		AC15D781202D2D2C00063A86 /* calvin_hobbes1.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D780202D2D2C00063A86 /* calvin_hobbes1.png */; };
 		AC15D783202D379600063A86 /* GoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC15D782202D379600063A86 /* GoodViewController.swift */; };
 		AC15D785202D3D1100063A86 /* PunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC15D784202D3D1100063A86 /* PunViewController.swift */; };
-		AC15D787202D402700063A86 /* emoticon-smile-7.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D786202D402700063A86 /* emoticon-smile-7.png */; };
-		AC15D789202D412000063A86 /* brain.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D788202D412000063A86 /* brain.png */; };
-		AC15D78B202D415900063A86 /* smiley-smile.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D78A202D415900063A86 /* smiley-smile.png */; };
+		AC15D78F202E6EF400063A86 /* emoticon-smile-7.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D78E202E6EF400063A86 /* emoticon-smile-7.png */; };
+		AC15D791202E6F1900063A86 /* brain.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D790202E6F1900063A86 /* brain.png */; };
+		AC15D793202E6F2F00063A86 /* smiley-smile.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D792202E6F2F00063A86 /* smiley-smile.png */; };
+		AC15D795202E6F4400063A86 /* calvin_hobbes1.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D794202E6F4400063A86 /* calvin_hobbes1.png */; };
+		AC15D797202E6F5400063A86 /* calvin_hobbes2.png in Resources */ = {isa = PBXBuildFile; fileRef = AC15D796202E6F5400063A86 /* calvin_hobbes2.png */; };
 		ACF6BD1E202BD74200E52360 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF6BD1D202BD74200E52360 /* AppDelegate.swift */; };
 		ACF6BD20202BD74200E52360 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF6BD1F202BD74200E52360 /* ViewController.swift */; };
 		ACF6BD23202BD74200E52360 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACF6BD21202BD74200E52360 /* Main.storyboard */; };
@@ -43,13 +43,13 @@
 
 /* Begin PBXFileReference section */
 		AC15D779202D20EF00063A86 /* DadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DadViewController.swift; sourceTree = "<group>"; };
-		AC15D77E202D2D2500063A86 /* calvin_hobbes2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = calvin_hobbes2.png; path = ../../../../../../Desktop/calvin_hobbes2.png; sourceTree = "<group>"; };
-		AC15D780202D2D2C00063A86 /* calvin_hobbes1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = calvin_hobbes1.png; path = ../../../../../../Desktop/calvin_hobbes1.png; sourceTree = "<group>"; };
 		AC15D782202D379600063A86 /* GoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodViewController.swift; sourceTree = "<group>"; };
 		AC15D784202D3D1100063A86 /* PunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PunViewController.swift; sourceTree = "<group>"; };
-		AC15D786202D402700063A86 /* emoticon-smile-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "emoticon-smile-7.png"; path = "../../../../../../Downloads/iconbeast-lite-200/iconbeast lite 200 - png/emoticon-smile-7.png"; sourceTree = "<group>"; };
-		AC15D788202D412000063A86 /* brain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = brain.png; path = "../../../../../../Downloads/iconbeast-lite-300/iconbeast lite 300 - png/brain.png"; sourceTree = "<group>"; };
-		AC15D78A202D415900063A86 /* smiley-smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "smiley-smile.png"; path = "../../../../../../Downloads/iconbeast-lite-300/iconbeast lite 300 - png/smiley-smile.png"; sourceTree = "<group>"; };
+		AC15D78E202E6EF400063A86 /* emoticon-smile-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "emoticon-smile-7.png"; sourceTree = "<group>"; };
+		AC15D790202E6F1900063A86 /* brain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brain.png; sourceTree = "<group>"; };
+		AC15D792202E6F2F00063A86 /* smiley-smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "smiley-smile.png"; sourceTree = "<group>"; };
+		AC15D794202E6F4400063A86 /* calvin_hobbes1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calvin_hobbes1.png; sourceTree = "<group>"; };
+		AC15D796202E6F5400063A86 /* calvin_hobbes2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calvin_hobbes2.png; sourceTree = "<group>"; };
 		ACF6BD1A202BD74200E52360 /* ikid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ikid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACF6BD1D202BD74200E52360 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACF6BD1F202BD74200E52360 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -90,16 +90,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		AC15D77B202D2BFC00063A86 /* Pictures */ = {
+		AC15D78C202E6DC600063A86 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				AC15D780202D2D2C00063A86 /* calvin_hobbes1.png */,
-				AC15D77E202D2D2500063A86 /* calvin_hobbes2.png */,
-				AC15D786202D402700063A86 /* emoticon-smile-7.png */,
-				AC15D788202D412000063A86 /* brain.png */,
-				AC15D78A202D415900063A86 /* smiley-smile.png */,
+				AC15D78D202E6DD000063A86 /* Images */,
 			);
-			path = Pictures;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		AC15D78D202E6DD000063A86 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				AC15D796202E6F5400063A86 /* calvin_hobbes2.png */,
+				AC15D794202E6F4400063A86 /* calvin_hobbes1.png */,
+				AC15D792202E6F2F00063A86 /* smiley-smile.png */,
+				AC15D790202E6F1900063A86 /* brain.png */,
+				AC15D78E202E6EF400063A86 /* emoticon-smile-7.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 		ACF6BD11202BD74200E52360 = {
@@ -125,7 +133,6 @@
 		ACF6BD1C202BD74200E52360 /* ikid */ = {
 			isa = PBXGroup;
 			children = (
-				AC15D77B202D2BFC00063A86 /* Pictures */,
 				ACF6BD1D202BD74200E52360 /* AppDelegate.swift */,
 				ACF6BD1F202BD74200E52360 /* ViewController.swift */,
 				ACF6BD21202BD74200E52360 /* Main.storyboard */,
@@ -135,6 +142,7 @@
 				AC15D779202D20EF00063A86 /* DadViewController.swift */,
 				AC15D782202D379600063A86 /* GoodViewController.swift */,
 				AC15D784202D3D1100063A86 /* PunViewController.swift */,
+				AC15D78C202E6DC600063A86 /* Resources */,
 			);
 			path = ikid;
 			sourceTree = "<group>";
@@ -264,13 +272,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC15D78F202E6EF400063A86 /* emoticon-smile-7.png in Resources */,
 				ACF6BD28202BD74200E52360 /* LaunchScreen.storyboard in Resources */,
-				AC15D789202D412000063A86 /* brain.png in Resources */,
-				AC15D781202D2D2C00063A86 /* calvin_hobbes1.png in Resources */,
-				AC15D787202D402700063A86 /* emoticon-smile-7.png in Resources */,
 				ACF6BD25202BD74200E52360 /* Assets.xcassets in Resources */,
-				AC15D78B202D415900063A86 /* smiley-smile.png in Resources */,
-				AC15D77F202D2D2500063A86 /* calvin_hobbes2.png in Resources */,
+				AC15D793202E6F2F00063A86 /* smiley-smile.png in Resources */,
+				AC15D791202E6F1900063A86 /* brain.png in Resources */,
+				AC15D795202E6F4400063A86 /* calvin_hobbes1.png in Resources */,
+				AC15D797202E6F5400063A86 /* calvin_hobbes2.png in Resources */,
 				ACF6BD23202BD74200E52360 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
